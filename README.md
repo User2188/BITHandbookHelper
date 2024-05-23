@@ -1,1 +1,1 @@
-A BIT handbook agent created by langchain.
+A BIT handbook agent created using langchain.
